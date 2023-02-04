@@ -13,6 +13,6 @@ jobs:
       name: Install Package
       run: pip install pytest
       
-      name: run tests
+      name: Run tests
       run: pytest test.py
       
